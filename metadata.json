@@ -1,0 +1,8 @@
+{
+  "name": "BudgetIvoire",
+  "description": "Une application de gestion financière simple et colorée pour l'Afrique de l'Ouest. Gère tes Francs CFA, tes dépenses Mobile Money et ta Tontine avec l'aide de l'IA.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
